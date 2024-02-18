@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>旅遊 on Wei&#39;s Blog</title>
+    <link>https://vivianlishan.github.io/categories/%E6%97%85%E9%81%8A/</link>
+    <description>Recent content in 旅遊 on Wei&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Mon, 12 Feb 2024 10:07:47 +0800</lastBuildDate>
+    <atom:link href="https://vivianlishan.github.io/categories/%E6%97%85%E9%81%8A/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wei&#39;s first test</title>
+      <link>https://vivianlishan.github.io/blog/test/</link>
+      <pubDate>Mon, 12 Feb 2024 10:07:47 +0800</pubDate>
+      <guid>https://vivianlishan.github.io/blog/test/</guid>
+      <description>Hello World&#xA;一級標題 二級標題 六級標題 這邊測試粗體字唷&#xA;這邊測試斜體字&#xA;Apple how what Boy Cat Cute Pretty Dog 引用文字</description>
+    </item>
+  </channel>
+</rss>
